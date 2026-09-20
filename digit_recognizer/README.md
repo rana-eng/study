@@ -1,4 +1,4 @@
-# Digit Recognizer
+# Hand writing Digit Recognizer
 
 A handwritten digit recognition project built with Python, PyTorch, and Tkinter. The app lets you draw a digit on a canvas and predicts the number using a trained neural network.
 
